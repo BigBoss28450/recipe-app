@@ -18,6 +18,9 @@
 .env.test.local
 .env.production.local
 
+#neviroment variables
+/src/App_Env.js
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
